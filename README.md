@@ -82,12 +82,46 @@ There is no hard and fast rule for writing a CV. I am sharing the points that I 
 
 ---
 
+
 <details>
-<summary><b>2. LinkedIn Profile</b></summary>
+<summary><b>2. GitHub Profile</b></summary>
 
-LinkedIn is often overlooked, but it plays an important role—especially for industry roles.
+You should organize your GitHub profile page properly. You will find many resources online on how to do this. This page may include your brief introduction, achievements, highlighted projects, and GitHub statistics (there are many third-party tools available for this).
 
-Recruiters often check LinkedIn before or after shortlisting candidates.
+You may take a look at my page here: [f12-mou](https://github.com/f12-mou).
+
+</details>
+
+---
+
+<details>
+<summary><b>3. Project Documentation</b></summary>
+
+In your undergraduate life, the assignments and projects you have done should ideally be maintained on GitHub. Even if you missed uploading some of them earlier, you can always upload them now.
+
+There are several ways to organize academic projects and assignments. However, the first thing a viewer notices is your documentation. I always encourage my juniors and students to document their code while working on it. Otherwise, later you may forget what you actually did. A good documentation should include the problem definition, dataset used, algorithm implemented (a brief technical summary), and instructions on how to run the code. It should give a clear idea of your work without requiring someone to go through the entire codebase. Good documentation often makes an average project stand out.
+
+While preparing for interviews, you must revise your previous projects. During this process, you can also improve and update your documentation.
+Here is a simple sample of my thesis documentation. You may take a look: [link](https://github.com/f12-mou/SuNSTAMP)
+
+</details>
+
+---
+
+<details>
+<summary><b>4. Portfolio / Personal Website</b></summary>
+
+Think of it as an extended version of your CV in website form. This can act as a superset of everything—you can include anything here that represents you. There are several codebases publicly available that you can use to create your own portfolio. You do not need to build everything from scratch. Your portfolio may include your introduction, education, projects, publications, extracurricular activities, leadership experience, and contact information.
+
+</details>
+
+---
+
+
+<details>
+<summary><b>5. LinkedIn Profile</b></summary>
+
+LinkedIn may play an important role—especially for industry roles. Recruiters often check LinkedIn before or after shortlisting candidates.
 
 Make sure your profile includes:
 - a clear headline (not just “Student”)  
@@ -101,70 +135,4 @@ You do not need to be extremely active, but your profile should be **complete an
 
 ---
 
-<details>
-<summary><b>3. GitHub Profile</b></summary>
 
-A well-organized GitHub profile reflects:
-- your coding habits  
-- consistency  
-- project depth  
-
-Try to:
-- pin your best repositories  
-- write proper README files  
-- avoid uploading random/unstructured code  
-
-Quality matters much more than quantity.
-
-</details>
-
----
-
-<details>
-<summary><b>4. Project Documentation</b></summary>
-
-Each project should be understandable to someone who has never seen it before.
-
-At minimum, include:
-- problem description  
-- approach  
-- technologies used  
-- results (if any)  
-
-Good documentation often makes an average project stand out.
-
-</details>
-
----
-
-<details>
-<summary><b>5. Thesis / Milestone Project Documentation</b></summary>
-
-This is one of the most important parts for both academia and industry.
-
-You should be able to clearly explain:
-- problem statement  
-- motivation  
-- methodology  
-- results  
-- your contribution  
-
-Interviewers often go deep into this.
-
-</details>
-
----
-
-<details>
-<summary><b>6. Portfolio (Optional)</b></summary>
-
-A portfolio helps you present everything in one place.
-
-It is especially useful for:
-- web development  
-- machine learning projects  
-- design-heavy work  
-
-If you have one, it can significantly improve your presentation.
-
-</details>
