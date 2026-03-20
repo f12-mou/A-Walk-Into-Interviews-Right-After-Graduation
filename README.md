@@ -297,11 +297,15 @@ I would like to acknowledge my seniors, peers, and students from whom I learned 
 
 If you have any suggestions, feedback, or questions, feel free to reach out.
 
-Faria Binta Awal (Moushe)
-Adjunct Lecturer, Department of CSE, BUET
-Lecturer, Department of CSE, School of Data and Sciences, BRAC University
-https://cse.sds.bracu.ac.bd/faculty_profile/485/faria_binta_awal
-faria DOT awal AT bracu DOT ac DOT bd
+
+---
+
+
+Faria Binta Awal (Moushe)  
+Adjunct Lecturer, Department of CSE, BUET  
+Lecturer, Department of CSE, School of Data and Sciences, BRAC University  
+https://cse.sds.bracu.ac.bd/faculty_profile/485/faria_binta_awal  
+faria DOT awal AT bracu DOT ac DOT bd  
 
 
 
