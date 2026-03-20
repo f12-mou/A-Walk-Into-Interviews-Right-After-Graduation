@@ -365,6 +365,11 @@ I am providing some common behavioral questions that I faced during interviews. 
 6. Why do you want to join this company?  
    _Tip: Explore their website and try to connect your past projects or experiences with what they do. Explain how you found that connection and why it interests you. This can create a very strong impression._
 
+7. Is there anything that you want to share about yourself which is not in the CV?
+8. How did you progress in a group project? 
+9. What are your weaknesses and strengths?
+10. How do you handle situations when you feel very depressed? 
+
 ---
 
 At this point, I also want to share one harsh and unprofessional question that I had to face in a particular renowned company. I will not mention the name anywhere in this write-up.
