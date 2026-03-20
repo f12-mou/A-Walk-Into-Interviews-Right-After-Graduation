@@ -288,6 +288,20 @@ Sample template for introduction:
 
 Greetings, honorable board members. I am [Full Name]. I graduated from the Department of CSE at [University X] in [Month, Year], with a CGPA of z.zz/4.00 and a class rank of X. My thesis is in the area of [topic/domain], conducted under the supervision of [Prof. X, designation] and [Prof. Y, designation]. The title of my thesis is [Title]. [Insert one or two concise sentences describing your thesis, focusing on the problem and your contribution]. Alongside my studies, I actively participated in [relevant CS-related extracurricular activities—for example, competitive programming]. [Insert one achievement or highlight to complete this part]. I am particularly interested in pursuing a career in teaching because [insert 2–3 lines explaining your motivation—focus on clarity, impact, and your interest in guiding students]. [If applicable] I also have some experience in teaching, such as [briefly mention]. I found this experience very fulfilling and it further strengthened my interest in this profession.
 
+---
+
+### A Small but Important Note
+
+While applying to any company or university, be very careful about the application portal. Always read the notices and emails thoroughly.
+
+I am emphasizing this because I made a mistake myself.
+
+In one university application, there were two separate portals:
+- one for CSE lecturers from a CSE background  
+- another for CSE lecturers from an EEE background  
+
+I did not notice this difference and ended up submitting my application through the EEE background portal. As a result, my interview was scheduled with EEE candidates instead of CSE candidates. So, please double-check everything before submitting your application.
+
 
 
 ## Interview Structure (Some Universities & Companies)
