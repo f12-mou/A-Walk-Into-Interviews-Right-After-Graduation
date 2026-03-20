@@ -382,7 +382,7 @@ Still, situations like this may arise. It is important to stay calm, confident, 
 
 ## Contact & Acknowledgements
 
-I would like to acknowledge my seniors, peers, and students from whom I learned many of these things, both directly and indirectly. This guide is not a complete or perfect resource. It is simply a collection of things I found useful and wished I had known earlier. If this helps even a few of you, that would already make it worthwhile.
+I would like to acknowledge my seniors and peers from whom I learned many of these things, both directly and indirectly. This guide is not a complete or perfect resource. It is simply a collection of things I found useful and wished I had known earlier. If this helps even a few of you, that would already make it worthwhile.
 
 If you have any suggestions, feedback, or questions, feel free to reach out.
 
