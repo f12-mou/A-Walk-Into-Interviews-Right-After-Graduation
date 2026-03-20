@@ -135,4 +135,81 @@ You do not need to be extremely active, but your profile should be **complete an
 
 ---
 
+## How to Prepare for Interviews
+
+While some fundamentals overlap, preparation for interviews is not the same for academia and industry.
+
+### Industry Preparation
+
+There are typically several segments in industry interviews. Among them, coding rounds are usually the most challenging ones.
+
+<details>
+<summary>1. <b>Coding Round </b> </summary>
+Here you are given a problem, sample input and output, along with time and space constraints. You need to write code that works correctly within those constraints. That’s it.
+
+For those who have been involved in competitive programming or regular problem-solving, this round is relatively manageable. However, if you have been away from DSA for a long time, you will need to dedicate a significant amount of time to it.
+
+For practice, you can start with structured problem sets like NeetCode 75 or NeetCode 150. Despite having CP experience, I still solved around 100 problems from NeetCode 150.
+
+While solving a problem, try to first understand the intuition. Then develop a solution. In live coding interviews, you are often asked:
+- how you approach the problem  
+- whether you can optimize your solution  
+- if there are better alternatives  
+- in which scenarios your solution might fail  
+
+So instead of just solving problems and getting AC on LeetCode, try to think a bit deeper about each problem.
+
+Useful resources:
+- https://leetcode.com/problem-list/plakya4j/
+- https://neetcode.io/practice/practice/blind75
+
+</details>
+
+
+---
+
+
+<details>
+<summary>2. <b>System Design Round </b> </summary>
+Sometimes this appears as a separate round, or sometimes it is merged with a coding or technical round.
+
+This is mostly based on concepts from your Software Engineering course. You are given the requirements of a system, and you need to design it properly.
+
+You should:
+- understand basic design patterns  
+- know when to use which pattern  
+- practice designing simple systems  
+
+You can also search online for common system design problems and their solutions. In my experience, after designing around 10–15 systems, you start developing a general intuition.
+
+Also, try to understand the differences between different design approaches.
+
+Useful resources:
+- https://www.interviewbit.com/design-patterns-interview-questions/
+- https://github.com/donnemartin/system-design-primer  
+- https://github.com/karanpratapsingh/system-design  
+</details>
+
+
+---
+
+
+<details>
+<summary>3. <b>Technical Round </b> </summary>
+
+In this round, you are asked questions from core subjects such as OOP, DSA, Database, Operating Systems, and Networking. Along with these, make sure that you can explain every small detail of the projects or tools you have mentioned in your CV. Saying things like “I forgot how I did this” creates a very negative impression.
+
+Revise your projects before interviews. For group projects, you will be asked questions like which part you worked on, how the entire system works, how your part integrates with others etc. Even if you did not implement certain parts, you should still understand how everything works together. Saying “I didn’t do that part, so I don’t know” can hurt your impression. So, be prepared to explain your work clearly and confidently.
+
+Useful resources:
+- https://www.interviewbit.com/data-structure-interview-questions/
+- https://www.interviewbit.com/oops-interview-questions/
+- https://www.interviewbit.com/networking-interview-questions/
+- https://www.interviewbit.com/machine-learning-interview-questions/
+- https://www.interviewbit.com/technical-interview-questions/
+
+</details>
+
+
+---
 
