@@ -342,8 +342,35 @@ So I understand how difficult that phase can feel.
 
 ## Some Behavioral FAQs in Interviews
 
+I am providing some common behavioral questions that I faced during interviews. I will add more if I can remember.
 
-## My Experience from Teaching
+1. In a group project, if any conflict arises among your teammates, how did you resolve it and reach a common ground?  
+
+2. Suppose you discover that the software to be released the day after tomorrow has a serious bug that could be harmful to users. What would you do?  
+
+3. If you disagree with your boss or a senior colleague, how would you handle the situation?  
+
+4. How do you plan to balance your professional and personal life?  
+
+5. You have a very high CGPA. Why did you not choose academia?  
+
+6. Why do you want to join this company?  
+   _Tip: Explore their website and try to connect your past projects or experiences with what they do. Explain how you found that connection and why it interests you. This can create a very strong impression._
+
+---
+
+At this point, I also want to share one harsh and unprofessional question that I had to face in a particular renowned company. I will not mention the name anywhere in this write-up.
+
+Even before starting the interview, the CEO asked me:
+
+> “Usually girls don’t like to code. Do you? Are you sure you can work for our company?”
+
+I handled the situation calmly and tried to respond in a confident manner. I explained how I completed my projects and assignments before deadlines, often adding extra features beyond the requirements—not for marks, but because I genuinely enjoyed doing it. I also mentioned my problem-solving experience and Codeforces statistics.
+
+However, no candidate deserves to be judged based on gender or to face such questions.
+
+Still, situations like this may arise. It is important to stay calm, confident, and respond in a way that reflects your capability rather than reacting emotionally.
+
 
 
 ## Contact & Acknowledgements
